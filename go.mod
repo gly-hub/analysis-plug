@@ -4,8 +4,8 @@ go 1.20
 
 require (
 	github.com/gly-hub/fasthttp-routing v0.0.0-20230103092213-f65d0ebb75bb
+	github.com/gly-hub/go-dandelion v1.2.0
 	github.com/prometheus/client_golang v1.16.0
-	github.com/sirupsen/logrus v1.9.3
 	github.com/spf13/cast v1.5.1
 	github.com/valyala/fasthttp v1.48.0
 )
@@ -17,6 +17,7 @@ require (
 	github.com/golang/protobuf v1.5.3 // indirect
 	github.com/klauspost/compress v1.16.3 // indirect
 	github.com/matttproud/golang_protobuf_extensions v1.0.4 // indirect
+	github.com/petermattis/goid v0.0.0-20230317030725-371a4b8eda08 // indirect
 	github.com/prometheus/client_model v0.3.0 // indirect
 	github.com/prometheus/common v0.42.0 // indirect
 	github.com/prometheus/procfs v0.10.1 // indirect
