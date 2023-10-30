@@ -5,7 +5,7 @@ import (
 	"github.com/prometheus/client_golang/prometheus"
 	"github.com/smallnest/rpcx/protocol"
 	"github.com/smallnest/rpcx/server"
-	"github.com/team-dandeliongo-dandelion/logger"
+	"github.com/team-dandelion/go-dandelion/logger"
 )
 
 var (
