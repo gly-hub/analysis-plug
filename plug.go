@@ -1,11 +1,11 @@
 package analysis
 
 import (
-	"github.com/gly-hub/analysis-plug/prometheus"
 	routing "github.com/gly-hub/fasthttp-routing"
 	"github.com/prometheus/client_golang/prometheus/promhttp"
 	"github.com/smallnest/rpcx/server"
 	"github.com/spf13/cast"
+	"github.com/team-dandelion/analysis-plug/prometheus"
 	"net"
 	"net/http"
 )

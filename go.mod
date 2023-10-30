@@ -1,4 +1,4 @@
-module github.com/gly-hub/analysis-plug
+module github.com/team-dandelion/analysis-plug
 
 go 1.20
 
