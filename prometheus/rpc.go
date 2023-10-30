@@ -2,10 +2,10 @@ package prometheus
 
 import (
 	"context"
-	"github.com/gly-hub/go-dandelion/logger"
 	"github.com/prometheus/client_golang/prometheus"
 	"github.com/smallnest/rpcx/protocol"
 	"github.com/smallnest/rpcx/server"
+	"github.com/team-dandeliongo-dandelion/logger"
 )
 
 var (

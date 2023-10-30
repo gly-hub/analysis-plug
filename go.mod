@@ -4,7 +4,6 @@ go 1.20
 
 require (
 	github.com/gly-hub/fasthttp-routing v0.0.0-20230103092213-f65d0ebb75bb
-	github.com/gly-hub/go-dandelion v1.2.0
 	github.com/prometheus/client_golang v1.16.0
 	github.com/spf13/cast v1.5.1
 	github.com/valyala/fasthttp v1.48.0

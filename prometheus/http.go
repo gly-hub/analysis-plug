@@ -2,8 +2,8 @@ package prometheus
 
 import (
 	routing "github.com/gly-hub/fasthttp-routing"
-	"github.com/gly-hub/go-dandelion/logger"
 	"github.com/prometheus/client_golang/prometheus"
+	"github.com/team-dandeliongo-dandelion/logger"
 	"github.com/valyala/fasthttp"
 	"strconv"
 	"time"

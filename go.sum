@@ -8,8 +8,8 @@ github.com/davecgh/go-spew v1.1.1 h1:vj9j/u1bqnvCEfJOwUhtlOARqs3+rkHYY13jYWTU97c
 github.com/frankban/quicktest v1.14.4 h1:g2rn0vABPOOXmZUj+vbmUp0lPoXEMuhTpIluN0XL9UY=
 github.com/gly-hub/fasthttp-routing v0.0.0-20230103092213-f65d0ebb75bb h1:zowBxKRjLgDHbSHcF8FfgfZr9beRYG58tokwDAiWGe0=
 github.com/gly-hub/fasthttp-routing v0.0.0-20230103092213-f65d0ebb75bb/go.mod h1:+Y557LGCG89Q4TwIdXw3NF/HJqNjlxz+mT4VmC5uX+E=
-github.com/gly-hub/go-dandelion v1.2.0 h1:dkpK8Q8UruwjLyr6Zg/ZoQYTIb6X1XX9zOQGN7gG5mY=
-github.com/gly-hub/go-dandelion v1.2.0/go.mod h1:0BxEK4juCpYl2dzf5ne+B21apDJE+UiKNW3iCcBFjsQ=
+github.com/team-dandeliongo-dandelion v1.2.0 h1:dkpK8Q8UruwjLyr6Zg/ZoQYTIb6X1XX9zOQGN7gG5mY=
+github.com/team-dandeliongo-dandelion v1.2.0/go.mod h1:0BxEK4juCpYl2dzf5ne+B21apDJE+UiKNW3iCcBFjsQ=
 github.com/go-ozzo/ozzo-routing v2.1.4+incompatible h1:gQmNyAwMnBHr53Nma2gPTfVVc6i2BuAwCWPam2hIvKI=
 github.com/golang/gddo v0.0.0-20210115222349-20d68f94ee1f h1:16RtHeWGkJMc80Etb8RPCcKevXGldr57+LOyZt8zOlg=
 github.com/golang/protobuf v1.2.0/go.mod h1:6lQm79b+lXiMfvg/cZm0SGofjICqVBUtrP5yJMmIC1U=
